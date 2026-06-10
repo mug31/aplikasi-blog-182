@@ -4,10 +4,10 @@
 
 | | |
 |---|---|
-| **Nama Lengkap** | [ISI NAMA LENGKAP KAMU] |
-| **NIM** | [ISI NIM KAMU] |
+| **Nama Lengkap** | Muktibaskara Kusbianto |
+| **NIM** | 240605110182 |
 | **Mata Kuliah** | Pemrograman Web |
-| **Semester** | Genap 2025/2026 |
+| **Semester** | 4 (Genap 2025/2026) |
 
 ---
 
@@ -98,7 +98,7 @@ Aplikasi dapat diakses di: `http://localhost:8000`
 
 ## Video Demonstrasi YouTube
 
-🎥 [ISI LINK VIDEO YOUTUBE KAMU DI SINI]
+🎥 [Link Video demonstrasi dan penjelasan](https://youtu.be/HQB0TeGVIm0)
 
 ---
 
